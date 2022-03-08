@@ -1,4 +1,4 @@
-# connect-google-sheet
+# Simple example to connect data from Google Sheets with Flask API
 ## API CheckName > connect google sheet
 
 [![Screenshot-2021-06-14-012602.png](https://i.postimg.cc/sgBX7QS6/Screenshot-2021-06-14-012602.png)](https://postimg.cc/0zsPqNVD)
